@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="504px" height="591px" version="1.1"
+     xmlns="http://www.w3.org/2000/svg"  xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <polygon id="TRIANGLE" points="0,0.57735 -0.5,-0.288675 0.5,-0.288675"/>
+  </defs>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix(2.1423711e-15 -34.987576 -34.987576 -2.1423711e-15  43.600554  548.01242)"/>
+  <rect x="-0.5" y="-0.5" width="1" height="1" 
+        stroke="none" fill="#000000" fill-rule="nonzero"
+        transform="matrix(-113.13507  46.862079  46.862079  113.13507  335.38988  167.99715)"/>
+</svg>

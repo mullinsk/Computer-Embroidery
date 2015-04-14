@@ -1,0 +1,75 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="182px" height="591px" version="1.1"
+     xmlns="http://www.w3.org/2000/svg"  xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <polygon id="TRIANGLE" points="0,0.57735 -0.5,-0.288675 0.5,-0.288675"/>
+  </defs>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix(1.9357673e-16  -3.161348   3.161348 1.9357673e-16  170.43565  579.83865)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix(-0.41263871 -3.1343022  3.1343022 -0.41263871  165.26889  549.08833)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix(-0.81821707 -3.0536277  3.0536277 -0.81821707  156.13261  519.27548)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix( -1.580674 -2.7378077 -2.7378077   1.580674  117.69501  480.59464)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix(-1.2097955 -2.9207047 -2.9207047  1.2097955  88.363332  451.07064)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix(-0.81821707 -3.0536277 -3.0536277 0.81821707  81.369159  420.68381)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix(-0.41263871 -3.1343022 -3.1343022 0.41263871  95.310526  396.98374)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix(3.5098013e-16  -3.161348   3.161348 3.5098013e-16  99.104144  310.18084)"/>
+  <circle r="0.5"
+          stroke="none" fill="#ff0400" fill-rule="nonzero"
+          transform="matrix(-0.41263871 -3.1343022 -3.1343022 0.41263871  95.310526  281.41257)"/>
+  <circle r="0.5"
+          stroke="none" fill="#ff0400" fill-rule="nonzero"
+          transform="matrix(3.5098013e-16  -3.161348   3.161348 3.5098013e-16  95.316677  252.39526)"/>
+  <circle r="0.5"
+          stroke="none" fill="#ff0400" fill-rule="nonzero"
+          transform="matrix(-0.41263871 -3.1343022 -3.1343022 0.41263871  74.613632  216.28728)"/>
+  <circle r="0.5"
+          stroke="none" fill="#ff0400" fill-rule="nonzero"
+          transform="matrix(-1.2097955 -2.9207047  2.9207047 -1.2097955  80.083425  96.197179)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix(-0.41263871 -3.1343022  3.1343022 -0.41263871  87.735592  165.84141)"/>
+  <circle r="0.5"
+          stroke="none" fill="#ff0400" fill-rule="nonzero"
+          transform="matrix(-0.81821707 -3.0536277  3.0536277 -0.81821707  80.219417  137.81442)"/>
+  <circle r="0.5"
+          stroke="none" fill="#ff0400" fill-rule="nonzero"
+          transform="matrix( -1.580674 -2.7378077  2.7378077  -1.580674   63.54232   69.76482)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix( -1.580674 -2.7378077 -2.7378077   1.580674  22.422469  37.731563)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix(-1.2097955 -2.9207047  2.9207047 -1.2097955  11.323705  10.920705)"/>
+  <rect x="-0.5" y="-0.5" width="1" height="1" 
+        stroke="none" fill="#ff0400" fill-rule="nonzero"
+        transform="matrix( 10.970058  1.4442355 -1.4442355  10.970058  121.77896  492.93246)"/>
+  <rect x="-0.5" y="-0.5" width="1" height="1" 
+        stroke="none" fill="#4000ff" fill-rule="nonzero"
+        transform="matrix(-9.5823268   5.532359   5.532359  9.5823268   100.0587  352.15968)"/>
+  <rect x="-0.5" y="-0.5" width="1" height="1" 
+        stroke="none" fill="#ff0400" fill-rule="nonzero"
+        transform="matrix( 8.7782309  6.7357735 -6.7357735  8.7782309  96.472034  322.90769)"/>
+  <rect x="-0.5" y="-0.5" width="1" height="1" 
+        stroke="none" fill="#ff0400" fill-rule="nonzero"
+        transform="matrix( 9.5823268   5.532359  -5.532359  9.5823268  86.787187  178.80293)"/>
+  <rect x="-0.5" y="-0.5" width="1" height="1" 
+        stroke="none" fill="#000000" fill-rule="nonzero"
+        transform="matrix(-4.2342842  10.222466  10.222466  4.2342842  31.065367  47.437282)"/>
+</svg>

@@ -1,0 +1,1071 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="532px" height="401px" version="1.1"
+     xmlns="http://www.w3.org/2000/svg"  xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <polygon id="TRIANGLE" points="0,0.57735 -0.5,-0.288675 0.5,-0.288675"/>
+  </defs>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix(3.0804614e-16 -5.0307753 -5.0307753 -3.0804614e-16  257.96346  152.66186)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix(0.043901239 -5.0305837 -5.0305837 -0.043901239  257.96346  151.15263)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix(0.087799135 -5.0300091 -5.0300091 -0.087799135  257.97663  149.64345)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix(0.13169034 -5.0290514 -5.0290514 -0.13169034  258.00297  148.13445)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix(0.17557153 -5.0277107 -5.0277107 -0.17557153  258.04248  146.62574)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix(0.21943934 -5.0259871 -5.0259871 -0.21943934  258.09515  145.11742)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix(0.26329044 -5.0238808 -5.0238808 -0.26329044  258.16098  143.60963)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix(0.30712148 -5.0213919 -5.0213919 -0.30712148  258.23997  142.10246)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix(0.35092914 -5.0185206 -5.0185206 -0.35092914  258.33211  140.59605)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix(0.39471008 -5.0152671 -5.0152671 -0.39471008  258.43738  139.09049)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix(0.43846096 -5.0116317 -5.0116317 -0.43846096   258.5558  137.58591)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix( 5.0032162 -0.52585921 -0.52585921 -5.0032162  364.69264  20.919404)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix( 5.0076146 -0.48217844 -0.48217844 -5.0076146  366.19361  20.761646)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix( 5.0116317 -0.43846096 -0.43846096 -5.0116317  367.69589  20.616993)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix( 5.0152671 -0.39471008 -0.39471008 -5.0152671  369.19938  20.485454)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix( 5.0185206 -0.35092914 -0.35092914 -5.0185206  370.70396  20.367041)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix( 5.0213919 -0.30712148 -0.30712148 -5.0213919  372.20952  20.261763)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix( 5.0238808 -0.26329044 -0.26329044 -5.0238808  373.71594  20.169626)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix( 5.0259871 -0.21943934 -0.21943934 -5.0259871   375.2231  20.090639)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix( 5.0277107 -0.17557153 -0.17557153 -5.0277107   376.7309  20.024807)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix( 5.0290514 -0.13169034 -0.13169034 -5.0290514  378.23921  19.972136)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix( 5.0300091 -0.087799135 -0.087799135 -5.0300091  379.74793  19.932629)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix( 4.8593558  1.3020605  1.3020605 -4.8593558  410.85294  22.137945)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix( 4.8478083  1.3444162  1.3444162 -4.8478083  412.31075  22.528563)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix( 4.8358916  1.3866696  1.3866696 -4.8358916  413.76509  22.931888)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix( 4.8236066  1.4288174  1.4288174 -4.8236066  415.21586  23.347889)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix( 4.8109543  1.4708563  1.4708563 -4.8109543  416.66294  23.776534)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix( 4.7979357  1.5127833  1.5127833 -4.7979357  418.10623  24.217791)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix( 4.7845516  1.5545951  1.5545951 -4.7845516  419.54561  24.671626)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix( 4.7708032  1.5962884  1.5962884 -4.7708032  420.98097  25.138004)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix( 4.7566915  1.6378602  1.6378602 -4.7566915  422.41221  25.616891)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix( 4.7422175  1.6793073  1.6793073 -4.7422175  423.83922  26.108249)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix( 4.7273824  1.7206265  1.7206265 -4.7273824  425.26189  26.612041)"/>
+  <circle r="0.5"
+          stroke="none" fill="#ff0400" fill-rule="nonzero"
+          transform="matrix(  1.045957  4.9208408  4.9208408  -1.045957  506.86964  113.29308)"/>
+  <circle r="0.5"
+          stroke="none" fill="#ff0400" fill-rule="nonzero"
+          transform="matrix( 1.0029753   4.929781   4.929781 -1.0029753  507.18343  114.76933)"/>
+  <circle r="0.5"
+          stroke="none" fill="#ff0400" fill-rule="nonzero"
+          transform="matrix(0.95991718  4.9383458  4.9383458 -0.95991718  507.48432  116.24826)"/>
+  <circle r="0.5"
+          stroke="none" fill="#ff0400" fill-rule="nonzero"
+          transform="matrix(0.91678598  4.9465345  4.9465345 -0.91678598   507.7723  117.72977)"/>
+  <circle r="0.5"
+          stroke="none" fill="#ff0400" fill-rule="nonzero"
+          transform="matrix(0.87358496  4.9543465  4.9543465 -0.87358496  508.04733  119.21373)"/>
+  <circle r="0.5"
+          stroke="none" fill="#ff0400" fill-rule="nonzero"
+          transform="matrix(0.83031742  4.9617812  4.9617812 -0.83031742  508.30941  120.70003)"/>
+  <circle r="0.5"
+          stroke="none" fill="#ff0400" fill-rule="nonzero"
+          transform="matrix(0.78698664  4.9688381  4.9688381 -0.78698664   508.5585  122.18856)"/>
+  <circle r="0.5"
+          stroke="none" fill="#ff0400" fill-rule="nonzero"
+          transform="matrix(0.74359593  4.9755166  4.9755166 -0.74359593   508.7946  123.67922)"/>
+  <circle r="0.5"
+          stroke="none" fill="#ff0400" fill-rule="nonzero"
+          transform="matrix( 0.7001486  4.9818161  4.9818161 -0.7001486  509.01768  125.17187)"/>
+  <circle r="0.5"
+          stroke="none" fill="#ff0400" fill-rule="nonzero"
+          transform="matrix(0.65664794  4.9877363  4.9877363 -0.65664794  509.22772  126.66642)"/>
+  <circle r="0.5"
+          stroke="none" fill="#ff0400" fill-rule="nonzero"
+          transform="matrix(0.61309728  4.9932767  4.9932767 -0.61309728  509.42472  128.16274)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix( 4.0699827  2.9570155  2.9570155 -4.0699827  453.51061  39.817922)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix( 4.0440232  2.9924198  2.9924198 -4.0440232   454.7316  40.705026)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix( 4.0177558  3.0275962  3.0275962 -4.0177558  455.94481  41.602752)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix( 3.9911824   3.062542   3.062542 -3.9911824  457.15014  42.511031)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix(  3.964305  3.0972545  3.0972545  -3.964305  458.34749  43.429794)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix( 3.9371258  3.1317313  3.1317313 -3.9371258  459.53678   44.35897)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix( 3.9096467  3.1659695  3.1659695 -3.9096467  460.71792  45.298489)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix( 3.8818699  3.1999666  3.1999666 -3.8818699  461.89081   46.24828)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix( 3.8537975    3.23372    3.23372 -3.8537975  463.05537   47.20827)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix( 3.8254315  3.2672272  3.2672272 -3.8254315  464.21151  48.178386)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix( 3.7967743  3.3004856  3.3004856 -3.7967743  465.35914  49.158554)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix( 2.7399566  4.2191632  4.2191632 -2.7399566  486.99903  71.610742)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix( 2.7030336  4.2429128  4.2429128 -2.7030336  487.82102  72.876491)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix( 2.6659047  4.2663394  4.2663394 -2.6659047  488.63193  74.149365)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix( 2.6285729  4.2894411  4.2894411 -2.6285729   489.4317  75.429267)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix( 2.5910408  4.3122161  4.3122161 -2.5910408  490.22027  76.716099)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix( 2.5533115  4.3346627  4.3346627 -2.5533115  490.99758  78.009764)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix( 2.5153876  4.3567792  4.3567792 -2.5153876  491.76358  79.310163)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix( 2.4772723  4.3785639  4.3785639 -2.4772723  492.51819  80.617197)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix( 2.4389683  4.4000152  4.4000152 -2.4389683  493.26137  81.930766)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix( 2.4004785  4.4211314  4.4211314 -2.4004785  493.99307   83.25077)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix( 2.3618059  4.4419109  4.4419109 -2.3618059  494.71321   84.57711)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix(-2.0462007 -4.5958419  4.5958419 -2.0462007  271.58789  203.55206)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix(-2.0862285 -4.5778107  4.5778107 -2.0862285  270.97403  202.17331)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix(-2.1260975 -4.5594308  4.5594308 -2.1260975  270.34816  200.79997)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix(-2.1658046 -4.5407037  4.5407037 -2.1658046  269.71033  199.43214)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix(-2.2053467 -4.5216309  4.5216309 -2.2053467  269.06059  198.06993)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix(-2.2447209 -4.5022137  4.5022137 -2.2447209  268.39899  196.71344)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix(-2.2839242 -4.4824536  4.4824536 -2.2839242  267.72557  195.36277)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix(-2.3229535 -4.4623522  4.4623522 -2.3229535  267.04039  194.01804)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix(-2.3618059 -4.4419109  4.4419109 -2.3618059  266.34351  192.67933)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix(-2.4004785 -4.4211314  4.4211314 -2.4004785  265.63497  191.34676)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix(-2.4389683 -4.4000152  4.4000152 -2.4389683  264.91482  190.02042)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix(-3.5572953 -3.5572953  3.5572953 -3.5572953  247.45245  164.18534)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix(-3.5882027  -3.526117   3.526117 -3.5882027  246.38527  163.11815)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix(-3.6188369 -3.4946702  3.4946702 -3.6188369   245.3088  162.06032)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix(-3.6491955 -3.4629572  3.4629572 -3.6491955  244.22315  161.01192)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix(-3.6792761 -3.4309805  3.4309805 -3.6792761   243.1284  159.97303)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix(-3.7090766 -3.3987425  3.3987425 -3.7090766  242.02461  158.94374)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix(-3.7385946 -3.3662457  3.3662457 -3.7385946  240.91189  157.92411)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix(-3.7678279 -3.3334926  3.3334926 -3.7678279  239.79031  156.91424)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix(-3.7967743 -3.3004856  3.3004856 -3.7967743  238.65996  155.91419)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix(-3.8254315 -3.2672272  3.2672272 -3.8254315  237.52093  154.92405)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix(-3.8537975   -3.23372    3.23372 -3.8537975   236.3733  153.94388)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix(-4.7845516  1.5545951 -1.5545951 -4.7845516  120.50145  126.61001)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix(-4.7708032  1.5962884 -1.5962884 -4.7708032  119.06608  127.07639)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix(-4.7566915  1.6378602 -1.6378602 -4.7566915  117.63484  127.55527)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix(-4.7422175  1.6793073 -1.6793073 -4.7422175  116.20783  128.04663)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix(-4.7273824  1.7206265 -1.7206265 -4.7273824  114.78517  128.55042)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix(-4.7121873  1.7618146 -1.7618146 -4.7121873  113.36695  129.06661)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix(-4.6966333  1.8028686 -1.8028686 -4.6966333   111.9533  129.59516)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix(-4.6807217  1.8437853 -1.8437853 -4.6807217  110.54431  130.13602)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix(-4.6644536  1.8845616 -1.8845616 -4.6644536  109.14009  130.68915)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix(-4.6478303  1.9251944 -1.9251944 -4.6478303  107.74075  131.25452)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix(-4.6308531  1.9656805 -1.9656805 -4.6308531   106.3464  131.83208)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix( 2.7399566  4.2191632 -4.2191632  2.7399566  43.611271  312.35065)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix(  2.776671  4.1950922 -4.1950922   2.776671  44.433258   313.6164)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix( 2.8131738  4.1707017 -4.1707017  2.8131738   45.26626  314.87493)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix( 2.8494625  4.1459937 -4.1459937  2.8494625  46.110212  316.12614)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix( 2.8855342  4.1209699 -4.1209699  2.8855342  46.965051  317.36994)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix( 2.9213861  4.0956322 -4.0956322  2.9213861  47.830711  318.60623)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix( 2.9570155  4.0699827 -4.0699827  2.9570155  48.707127  319.83492)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix( 2.9924198  4.0440232 -4.0440232  2.9924198  49.594231  321.05591)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix( 3.0275962  4.0177558 -4.0177558  3.0275962  50.491957  322.26912)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix(  3.062542  3.9911824 -3.9911824   3.062542  51.400236  323.47445)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix( 3.0972545   3.964305  -3.964305  3.0972545  52.318999   324.6718)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix( 4.0699827  2.9570155 -2.9570155  4.0699827  73.607872  347.45709)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix( 4.0956322  2.9213861 -2.9213861  4.0956322  74.828867   348.3442)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix( 4.1209699  2.8855342 -2.8855342  4.1209699  76.057557  349.22061)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix( 4.1459937  2.8494625 -2.8494625  4.1459937  77.293848  350.08627)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix( 4.1707017  2.8131738 -2.8131738  4.1707017  78.537646  350.94111)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix( 4.1950922   2.776671  -2.776671  4.1950922  79.788856  351.78506)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix( 4.2191632  2.7399566 -2.7399566  4.2191632  81.047384  352.61806)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix( 4.2429128  2.7030336 -2.7030336  4.2429128  82.313133  353.44005)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix( 4.2663394  2.6659047 -2.6659047  4.2663394  83.586007  354.25096)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix( 4.2894411  2.6285729 -2.6285729  4.2894411  84.865909  355.05073)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix( 4.3122161  2.5910408 -2.5910408  4.3122161  86.152741   355.8393)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix( 5.0032162 -0.52585921 0.52585921  5.0032162  159.97574  375.49948)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix( 4.9984367 -0.56949993 0.56949993  4.9984367  161.47671  375.34172)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix( 4.9932767 -0.61309728 0.61309728  4.9932767  162.97624  375.17087)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix( 4.9877363 -0.65664794 0.65664794  4.9877363  164.47422  374.98694)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix( 4.9818161 -0.7001486  0.7001486  4.9818161  165.97054  374.78994)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix( 4.9755166 -0.74359593 0.74359593  4.9755166  167.46509   374.5799)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix( 4.9688381 -0.78698664 0.78698664  4.9688381  168.95774  374.35682)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix( 4.9617812 -0.83031742 0.83031742  4.9617812  170.44839  374.12073)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix( 4.9543465 -0.87358496 0.87358496  4.9543465  171.93693  373.87163)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix( 4.9465345 -0.91678598 0.91678598  4.9465345  173.42323  373.60955)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix( 4.9383458 -0.95991718 0.95991718  4.9383458  174.90719  373.33452)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix( 3.3662457 -3.7385946  3.7385946  3.3662457   242.9236  338.54764)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix( 3.3334926 -3.7678279  3.7678279  3.3334926  243.93347  337.42606)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix( 3.3004856 -3.7967743  3.7967743  3.3004856  244.93352  336.29572)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix( 3.2672272 -3.8254315  3.8254315  3.2672272  245.92367  335.15668)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix(   3.23372 -3.8537975  3.8537975    3.23372  246.90383  334.00905)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix( 3.1999666 -3.8818699  3.8818699  3.1999666  247.87395  332.85292)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix( 3.1659695 -3.9096467  3.9096467  3.1659695  248.83394  331.68835)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix( 3.1317313 -3.9371258  3.9371258  3.1317313  249.78373  330.51546)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix( 3.0972545  -3.964305   3.964305  3.0972545  250.72325  329.33432)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix(  3.062542 -3.9911824  3.9911824   3.062542  251.65243  328.14503)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix( 3.0275962 -4.0177558  4.0177558  3.0275962  252.57119  326.94768)"/>
+  <circle r="0.5"
+          stroke="none" fill="#ff0400" fill-rule="nonzero"
+          transform="matrix(-1.8028686 -4.6966333  4.6966333 -1.8028686  273.80334  209.80408)"/>
+  <circle r="0.5"
+          stroke="none" fill="#ff0400" fill-rule="nonzero"
+          transform="matrix(-1.8437853 -4.6807217  4.6807217 -1.8437853  273.26247  208.39509)"/>
+  <circle r="0.5"
+          stroke="none" fill="#ff0400" fill-rule="nonzero"
+          transform="matrix(-1.8845616 -4.6644536  4.6644536 -1.8845616  272.70934  206.99087)"/>
+  <circle r="0.5"
+          stroke="none" fill="#ff0400" fill-rule="nonzero"
+          transform="matrix(-1.9251944 -4.6478303  4.6478303 -1.9251944  272.14397  205.59153)"/>
+  <circle r="0.5"
+          stroke="none" fill="#ff0400" fill-rule="nonzero"
+          transform="matrix(-1.9656805 -4.6308531  4.6308531 -1.9656805  271.56641  204.19718)"/>
+  <circle r="0.5"
+          stroke="none" fill="#ff0400" fill-rule="nonzero"
+          transform="matrix( -2.006017 -4.6135232  4.6135232  -2.006017  270.97671  202.80793)"/>
+  <circle r="0.5"
+          stroke="none" fill="#ff0400" fill-rule="nonzero"
+          transform="matrix(-2.0462007 -4.5958419  4.5958419 -2.0462007   270.3749  201.42387)"/>
+  <circle r="0.5"
+          stroke="none" fill="#ff0400" fill-rule="nonzero"
+          transform="matrix(-2.0862285 -4.5778107  4.5778107 -2.0862285  269.76104  200.04512)"/>
+  <circle r="0.5"
+          stroke="none" fill="#ff0400" fill-rule="nonzero"
+          transform="matrix(-2.1260975 -4.5594308  4.5594308 -2.1260975  269.13517  198.67178)"/>
+  <circle r="0.5"
+          stroke="none" fill="#ff0400" fill-rule="nonzero"
+          transform="matrix(-2.1658046 -4.5407037  4.5407037 -2.1658046  268.49735  197.30395)"/>
+  <circle r="0.5"
+          stroke="none" fill="#ff0400" fill-rule="nonzero"
+          transform="matrix(-2.2053467 -4.5216309  4.5216309 -2.2053467   267.8476  195.94174)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix(-3.5572953 -3.5572953 -7.1145907  7.1145907   280.1254  224.18438)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix(-4.9688381 -0.78698664 -1.5739733  9.9376762  278.74024  223.47861)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix(-4.4824536  2.2839242  4.5678484  8.9649072  277.20479   223.7218)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix(-2.2839242  4.4824536  8.9649072  4.5678484  276.10552  224.82106)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix(0.78698664  4.9688381  9.9376762 -1.5739733  275.86233  226.35652)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix( 3.5572953  3.5572953  7.1145907 -7.1145907   276.5681  227.74167)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix( 4.9688381 0.78698664  1.5739733 -9.9376762  277.95326  228.44744)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix( 4.4824536 -2.2839242 -4.5678484 -8.9649072  279.48871  228.20425)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix( 2.2839242 -4.4824536 -8.9649072 -4.5678484  280.58798  227.10499)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix(-0.78698664 -4.9688381 -9.9376762  1.5739733  280.83117  225.56953)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix(-2.5153876  4.3567792 -8.7135584 -5.0307753  32.293591  200.52639)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix(-4.5958419  2.0462007 -4.0924013 -9.1916838  31.138302  201.56661)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix(-4.9208408  -1.045957   2.091914 -9.8416816  29.592223  201.72911)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix(-3.3662457 -3.7385946  7.4771893 -6.7324914  28.245904  200.95182)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix(-0.52585921 -5.0032162  10.006432 -1.0517184  27.613593  199.53162)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix( 2.5153876 -4.3567792  8.7135584  5.0307753  27.936812    198.011)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix( 4.5958419 -2.0462007  4.0924013  9.1916838  29.092101  196.97077)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix( 4.9208408   1.045957  -2.091914  9.8416816   30.63818  196.80827)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix( 3.3662457  3.7385946 -7.4771893  6.7324914  31.984499  197.58557)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix(0.52585921  5.0032162 -10.006432  1.0517184   32.61681  199.00576)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix(  1.045957  4.9208408 -9.8416816   2.091914  30.957418  293.95333)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix(-2.0462007  4.5958419 -9.1916838 -4.0924013  30.794919  295.49941)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix(-4.3567792  2.5153876 -5.0307753 -8.7135584  29.754692   296.6547)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix(-5.0032162 -0.52585921  1.0517184 -10.006432  28.234068  296.97792)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix(-3.7385946 -3.3662457  6.7324914 -7.4771893  26.813875  296.34561)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix( -1.045957 -4.9208408  9.8416816  -2.091914  26.036578  294.99929)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix( 2.0462007 -4.5958419  9.1916838  4.0924013  26.199077  293.45321)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix( 4.3567792 -2.5153876  5.0307753  8.7135584  27.239304  292.29792)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix( 5.0032162 0.52585921 -1.0517184  10.006432  28.759928   291.9747)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix( 3.7385946  3.3662457 -6.7324914  7.4771893  30.180121  292.60701)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix(-3.9096467  3.1659695  -6.331939 -7.8192934  57.696322  160.37331)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix(-5.0238808 0.26329044 -0.52658087 -10.047762  56.244983  160.93043)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix(-4.2191632 -2.7399566  5.4799132 -8.4383263  54.743359  160.52807)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix(-1.8028686 -4.6966333  9.3932667 -3.6057373  53.765021  159.31992)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix( 1.3020605 -4.8593558  9.7187116  2.6041209   53.68366  157.76746)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix( 3.9096467 -3.1659695   6.331939  7.8192934  54.530353  156.46366)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix( 5.0238808 -0.26329044 0.52658087  10.047762  55.981692  155.90655)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix( 4.2191632  2.7399566 -5.4799132  8.4383263  57.483316   156.3089)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix( 1.8028686  4.6966333 -9.3932667  3.6057373  58.461654  157.51705)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix(-1.3020605  4.8593558 -9.7187116 -2.6041209  58.543016  159.06952)"/>
+  <circle r="0.5"
+          stroke="none" fill="#ff0400" fill-rule="nonzero"
+          transform="matrix(-4.5958419 -2.0462007 -4.0924013  9.1916838  315.05493  256.39456)"/>
+  <circle r="0.5"
+          stroke="none" fill="#ff0400" fill-rule="nonzero"
+          transform="matrix(-4.9208408   1.045957   2.091914  9.8416816  313.50886  256.23206)"/>
+  <circle r="0.5"
+          stroke="none" fill="#ff0400" fill-rule="nonzero"
+          transform="matrix(-3.3662457  3.7385946  7.4771893  6.7324914  312.16254  257.00936)"/>
+  <circle r="0.5"
+          stroke="none" fill="#ff0400" fill-rule="nonzero"
+          transform="matrix(-0.52585921  5.0032162  10.006432  1.0517184  311.53023  258.42955)"/>
+  <circle r="0.5"
+          stroke="none" fill="#ff0400" fill-rule="nonzero"
+          transform="matrix( 2.5153876  4.3567792  8.7135584 -5.0307753  311.85344  259.95017)"/>
+  <circle r="0.5"
+          stroke="none" fill="#ff0400" fill-rule="nonzero"
+          transform="matrix( 4.5958419  2.0462007  4.0924013 -9.1916838  313.00873   260.9904)"/>
+  <circle r="0.5"
+          stroke="none" fill="#ff0400" fill-rule="nonzero"
+          transform="matrix( 4.9208408  -1.045957  -2.091914 -9.8416816  314.55481   261.1529)"/>
+  <circle r="0.5"
+          stroke="none" fill="#ff0400" fill-rule="nonzero"
+          transform="matrix( 3.3662457 -3.7385946 -7.4771893 -6.7324914  315.90113   260.3756)"/>
+  <circle r="0.5"
+          stroke="none" fill="#ff0400" fill-rule="nonzero"
+          transform="matrix(0.52585921 -5.0032162 -10.006432 -1.0517184  316.53344  258.95541)"/>
+  <circle r="0.5"
+          stroke="none" fill="#ff0400" fill-rule="nonzero"
+          transform="matrix(-2.5153876 -4.3567792 -8.7135584  5.0307753  316.21022  257.43479)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix(-0.78698664  4.9688381 -9.9376762 -1.5739733  22.967674  247.11604)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix(-3.5572953  3.5572953 -7.1145907 -7.1145907  22.261903  248.50119)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix(-4.9688381 0.78698664 -1.5739733 -9.9376762  20.876748  249.20696)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix(-4.4824536 -2.2839242  4.5678484 -8.9649072  19.341293  248.96377)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix(-2.2839242 -4.4824536  8.9649072 -4.5678484  18.242028  247.86451)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix(0.78698664 -4.9688381  9.9376762  1.5739733  17.998836  246.32905)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix( 3.5572953 -3.5572953  7.1145907  7.1145907  18.704607   244.9439)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix( 4.9688381 -0.78698664  1.5739733  9.9376762  20.089762  244.23812)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix( 4.4824536  2.2839242 -4.5678484  8.9649072  21.625217  244.48132)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix( 2.2839242  4.4824536 -8.9649072  4.5678484  22.724482  245.58058)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix( 1.8028686 -4.6966333  9.3932667  3.6057373  280.43278   277.9052)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix( 4.2191632 -2.7399566  5.4799132  8.4383263  281.41112  276.69706)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix( 5.0238808 0.26329044 -0.52658087  10.047762  282.91274   276.2947)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix( 3.9096467  3.1659695  -6.331939  7.8192934  284.36408  276.85182)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix( 1.3020605  4.8593558 -9.7187116  2.6041209  285.21078  278.15561)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix(-1.8028686  4.6966333 -9.3932667 -3.6057373  285.12941  279.70807)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix(-4.2191632  2.7399566 -5.4799132 -8.4383263  284.15108  280.91622)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix(-5.0238808 -0.26329044 0.52658087 -10.047762  282.64945  281.31858)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix(-3.9096467 -3.1659695   6.331939 -7.8192934  281.19811  280.76146)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix(-1.3020605 -4.8593558  9.7187116 -2.6041209  280.35142  279.45767)"/>
+  <circle r="0.5"
+          stroke="none" fill="#ff0400" fill-rule="nonzero"
+          transform="matrix( 4.4824536 -2.2839242  4.5678484  8.9649072  228.42821   355.5319)"/>
+  <circle r="0.5"
+          stroke="none" fill="#ff0400" fill-rule="nonzero"
+          transform="matrix( 4.9688381 0.78698664 -1.5739733  9.9376762  229.96367  355.28871)"/>
+  <circle r="0.5"
+          stroke="none" fill="#ff0400" fill-rule="nonzero"
+          transform="matrix( 3.5572953  3.5572953 -7.1145907  7.1145907  231.34882  355.99448)"/>
+  <circle r="0.5"
+          stroke="none" fill="#ff0400" fill-rule="nonzero"
+          transform="matrix(0.78698664  4.9688381 -9.9376762  1.5739733  232.05459  357.37964)"/>
+  <circle r="0.5"
+          stroke="none" fill="#ff0400" fill-rule="nonzero"
+          transform="matrix(-2.2839242  4.4824536 -8.9649072 -4.5678484   231.8114  358.91509)"/>
+  <circle r="0.5"
+          stroke="none" fill="#ff0400" fill-rule="nonzero"
+          transform="matrix(-4.4824536  2.2839242 -4.5678484 -8.9649072  230.71213  360.01436)"/>
+  <circle r="0.5"
+          stroke="none" fill="#ff0400" fill-rule="nonzero"
+          transform="matrix(-4.9688381 -0.78698664  1.5739733 -9.9376762  229.17668  360.25755)"/>
+  <circle r="0.5"
+          stroke="none" fill="#ff0400" fill-rule="nonzero"
+          transform="matrix(-3.5572953 -3.5572953  7.1145907 -7.1145907  227.79152  359.55178)"/>
+  <circle r="0.5"
+          stroke="none" fill="#ff0400" fill-rule="nonzero"
+          transform="matrix(-0.78698664 -4.9688381  9.9376762 -1.5739733  227.08575  358.16662)"/>
+  <circle r="0.5"
+          stroke="none" fill="#ff0400" fill-rule="nonzero"
+          transform="matrix( 2.2839242 -4.4824536  8.9649072  4.5678484  227.32895  356.63117)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix( 4.8593558  1.3020605 -2.6041209  9.7187116  137.83888  378.42193)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix( 3.1659695  3.9096467 -7.8192934   6.331939  139.14268  379.26863)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix(0.26329044  5.0238808 -10.047762 0.52658087  139.69979  380.71997)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix(-2.7399566  4.2191632 -8.4383263 -5.4799132  139.29743  382.22159)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix(-4.6966333  1.8028686 -3.6057373 -9.3932667  138.08929  383.19993)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix(-4.8593558 -1.3020605  2.6041209 -9.7187116  136.53682  383.28129)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix(-3.1659695 -3.9096467  7.8192934  -6.331939  135.23303   382.4346)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix(-0.26329044 -5.0238808  10.047762 -0.52658087  134.67591  380.98326)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix( 2.7399566 -4.2191632  8.4383263  5.4799132  135.07827  379.48163)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix( 4.6966333 -1.8028686  3.6057373  9.3932667  136.28642  378.50329)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix( 4.4824536 -2.2839242 -4.5678484 -8.9649072  342.43191  22.663322)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix( 2.2839242 -4.4824536 -8.9649072 -4.5678484  343.53118  21.564057)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix(-0.78698664 -4.9688381 -9.9376762  1.5739733  343.77437  20.028602)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix(-3.5572953 -3.5572953 -7.1145907  7.1145907   343.0686  18.643448)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix(-4.9688381 -0.78698664 -1.5739733  9.9376762  341.68344  17.937676)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix(-4.4824536  2.2839242  4.5678484  8.9649072  340.14799  18.180868)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix(-2.2839242  4.4824536  8.9649072  4.5678484  339.04872  19.280133)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix(0.78698664  4.9688381  9.9376762 -1.5739733  338.80553  20.815589)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix( 3.5572953  3.5572953  7.1145907 -7.1145907   339.5113  22.200743)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix( 4.9688381 0.78698664  1.5739733 -9.9376762  340.89646  22.906514)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix(-5.0238808 -0.26329044 -0.52658087  10.047762  359.20756  273.94773)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix(-4.2191632  2.7399566  5.4799132  8.4383263  357.70594  274.35009)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix(-1.8028686  4.6966333  9.3932667  3.6057373   356.7276  275.55824)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix( 1.3020605  4.8593558  9.7187116 -2.6041209  356.64624   277.1107)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix( 3.9096467  3.1659695   6.331939 -7.8192934  357.49293  278.41449)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix( 5.0238808 0.26329044 0.52658087 -10.047762  358.94427  278.97161)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix( 4.2191632 -2.7399566 -5.4799132 -8.4383263  360.44589  278.56925)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix( 1.8028686 -4.6966333 -9.3932667 -3.6057373  361.42423  277.36111)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix(-1.3020605 -4.8593558 -9.7187116  2.6041209  361.50559  275.80864)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix(-3.9096467 -3.1659695  -6.331939  7.8192934   360.6589  274.50485)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix(-5.0238808 -0.26329044 0.52658087 -10.047762  141.54695   119.1489)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix(-3.9096467 -3.1659695   6.331939 -7.8192934  140.09561  118.59179)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix(-1.3020605 -4.8593558  9.7187116 -2.6041209  139.24892  117.28799)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix( 1.8028686 -4.6966333  9.3932667  3.6057373  139.33028  115.73553)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix( 4.2191632 -2.7399566  5.4799132  8.4383263  140.30862  114.52738)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix( 5.0238808 0.26329044 -0.52658087  10.047762  141.81024  114.12502)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix( 3.9096467  3.1659695  -6.331939  7.8192934  143.26158  114.68214)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix( 1.3020605  4.8593558 -9.7187116  2.6041209  144.10827  115.98593)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix(-1.8028686  4.6966333 -9.3932667 -3.6057373  144.02691   117.5384)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix(-4.2191632  2.7399566 -5.4799132 -8.4383263  143.04857  118.74654)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix(-2.5153876  4.3567792  8.7135584  5.0307753  486.96011  226.64151)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix(0.52585921  5.0032162  10.006432 -1.0517184  486.63689  228.16213)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix( 3.3662457  3.7385946  7.4771893 -6.7324914   487.2692  229.58232)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix( 4.9208408   1.045957   2.091914 -9.8416816  488.61552  230.35962)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix( 4.5958419 -2.0462007 -4.0924013 -9.1916838   490.1616  230.19712)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix( 2.5153876 -4.3567792 -8.7135584 -5.0307753  491.31689  229.15689)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix(-0.52585921 -5.0032162 -10.006432  1.0517184   491.6401  227.63627)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix(-3.3662457 -3.7385946 -7.4771893  6.7324914  491.00779  226.21608)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix(-4.9208408  -1.045957  -2.091914  9.8416816  489.66148  225.43878)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix(-4.5958419  2.0462007  4.0924013  9.1916838   488.1154  225.60128)"/>
+  <circle r="0.5"
+          stroke="none" fill="#ff0400" fill-rule="nonzero"
+          transform="matrix(8.3779238e-16 -5.0307753  10.061551 1.6755848e-15  282.35565  230.43025)"/>
+  <circle r="0.5"
+          stroke="none" fill="#ff0400" fill-rule="nonzero"
+          transform="matrix( 2.9570155 -4.0699827  8.1399654  5.9140311  282.83605  228.95175)"/>
+  <circle r="0.5"
+          stroke="none" fill="#ff0400" fill-rule="nonzero"
+          transform="matrix( 4.7845516 -1.5545951  3.1091901  9.5691033  284.09374  228.03798)"/>
+  <circle r="0.5"
+          stroke="none" fill="#ff0400" fill-rule="nonzero"
+          transform="matrix( 4.7845516  1.5545951 -3.1091901  9.5691033  285.64834  228.03798)"/>
+  <circle r="0.5"
+          stroke="none" fill="#ff0400" fill-rule="nonzero"
+          transform="matrix( 2.9570155  4.0699827 -8.1399654  5.9140311  286.90603  228.95175)"/>
+  <circle r="0.5"
+          stroke="none" fill="#ff0400" fill-rule="nonzero"
+          transform="matrix(-2.7926413e-16  5.0307753 -10.061551 -5.5852826e-16  287.38643  230.43025)"/>
+  <circle r="0.5"
+          stroke="none" fill="#ff0400" fill-rule="nonzero"
+          transform="matrix(-2.9570155  4.0699827 -8.1399654 -5.9140311  286.90603  231.90876)"/>
+  <circle r="0.5"
+          stroke="none" fill="#ff0400" fill-rule="nonzero"
+          transform="matrix(-4.7845516  1.5545951 -3.1091901 -9.5691033  285.64834  232.82253)"/>
+  <circle r="0.5"
+          stroke="none" fill="#ff0400" fill-rule="nonzero"
+          transform="matrix(-4.7845516 -1.5545951  3.1091901 -9.5691033  284.09374  232.82253)"/>
+  <circle r="0.5"
+          stroke="none" fill="#ff0400" fill-rule="nonzero"
+          transform="matrix(-2.9570155 -4.0699827  8.1399654 -5.9140311  282.83605  231.90876)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix(-3.9096467  3.1659695   6.331939  7.8192934  451.27524  258.01281)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix(-1.3020605  4.8593558  9.7187116  2.6041209  450.42855  259.31661)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix( 1.8028686  4.6966333  9.3932667 -3.6057373  450.50991  260.86907)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix( 4.2191632  2.7399566  5.4799132 -8.4383263  451.48825  262.07722)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix( 5.0238808 -0.26329044 -0.52658087 -10.047762  452.98987  262.47958)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix( 3.9096467 -3.1659695  -6.331939 -7.8192934  454.44121  261.92246)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix( 1.3020605 -4.8593558 -9.7187116 -2.6041209  455.28791  260.61867)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix(-1.8028686 -4.6966333 -9.3932667  3.6057373  455.20655   259.0662)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix(-4.2191632 -2.7399566 -5.4799132  8.4383263  454.22821  257.85806)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix(-5.0238808 0.26329044 0.52658087  10.047762  452.72658   257.4557)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix(-0.78698664  4.9688381  9.9376762  1.5739733  509.03233  184.56556)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix( 2.2839242  4.4824536  8.9649072 -4.5678484  509.27552  186.10101)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix( 4.4824536  2.2839242  4.5678484 -8.9649072  510.37478  187.20028)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix( 4.9688381 -0.78698664 -1.5739733 -9.9376762  511.91024  187.44347)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix( 3.5572953 -3.5572953 -7.1145907 -7.1145907  513.29539   186.7377)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix(0.78698664 -4.9688381 -9.9376762 -1.5739733  514.00116  185.35255)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix(-2.2839242 -4.4824536 -8.9649072  4.5678484  513.75797  183.81709)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix(-4.4824536 -2.2839242 -4.5678484  8.9649072  512.65871  182.71782)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix(-4.9688381 0.78698664  1.5739733  9.9376762  511.12325  182.47463)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix(-3.5572953  3.5572953  7.1145907  7.1145907   509.7381   183.1804)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix(-4.5958419 -2.0462007  4.0924013 -9.1916838   188.8562  123.55379)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix(-2.5153876 -4.3567792  8.7135584 -5.0307753  187.70091  122.51356)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix(0.52585921 -5.0032162  10.006432  1.0517184   187.3777  120.99294)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix( 3.3662457 -3.7385946  7.4771893  6.7324914  188.01001  119.57274)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix( 4.9208408  -1.045957   2.091914  9.8416816  189.35632  118.79544)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix( 4.5958419  2.0462007 -4.0924013  9.1916838   190.9024  118.95794)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix( 2.5153876  4.3567792 -8.7135584  5.0307753  192.05769  119.99817)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix(-0.52585921  5.0032162 -10.006432 -1.0517184  192.38091  121.51879)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix(-3.3662457  3.7385946 -7.4771893 -6.7324914   191.7486  122.93899)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix(-4.9208408   1.045957  -2.091914 -9.8416816  190.40228  123.71629)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix( 3.3662457 -3.7385946 -7.4771893 -6.7324914  301.00439   45.92979)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix(0.52585921 -5.0032162 -10.006432 -1.0517184   301.6367  44.509597)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix(-2.5153876 -4.3567792 -8.7135584  5.0307753  301.31348  42.988973)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix(-4.5958419 -2.0462007 -4.0924013  9.1916838  300.15819  41.948746)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix(-4.9208408   1.045957   2.091914  9.8416816  298.61211  41.786247)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix(-3.3662457  3.7385946  7.4771893  6.7324914  297.26579  42.563544)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix(-0.52585921  5.0032162  10.006432  1.0517184  296.63348  43.983738)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix( 2.5153876  4.3567792  8.7135584 -5.0307753   296.9567  45.504361)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix( 4.5958419  2.0462007  4.0924013 -9.1916838  298.11199  46.544588)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix( 4.9208408  -1.045957  -2.091914 -9.8416816  299.65807  46.707088)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix(-4.7845516  1.5545951  3.1091901  9.5691033  406.71808  274.51214)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix(-2.9570155  4.0699827  8.1399654  5.9140311  405.46039  275.42591)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix(         0  5.0307753  10.061551          0  404.97999  276.90442)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix( 2.9570155  4.0699827  8.1399654 -5.9140311  405.46039  278.38292)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix( 4.7845516  1.5545951  3.1091901 -9.5691033  406.71808  279.29669)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix( 4.7845516 -1.5545951 -3.1091901 -9.5691033  408.27268  279.29669)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix( 2.9570155 -4.0699827 -8.1399654 -5.9140311  409.53037  278.38292)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix(         0 -5.0307753 -10.061551         -0  410.01077  276.90442)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix(-2.9570155 -4.0699827 -8.1399654  5.9140311  409.53037  275.42591)"/>
+  <circle r="0.5"
+          stroke="none" fill="#4000ff" fill-rule="nonzero"
+          transform="matrix(-4.7845516 -1.5545951 -3.1091901  9.5691033  408.27268  274.51214)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix( 1.8028686 -4.6966333 -9.3932667 -3.6057373  270.66642  82.497206)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix(-1.3020605 -4.8593558 -9.7187116  2.6041209  270.74778  80.944742)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix(-3.9096467 -3.1659695  -6.331939  7.8192934  269.90109  79.640948)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix(-5.0238808 -0.26329044 -0.52658087  10.047762  268.44975  79.083831)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix(-4.2191632  2.7399566  5.4799132  8.4383263  266.94812   79.48619)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix(-1.8028686  4.6966333  9.3932667  3.6057373  265.96979  80.694337)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix( 1.3020605  4.8593558  9.7187116 -2.6041209  265.88842  82.246802)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix( 3.9096467  3.1659695   6.331939 -7.8192934  266.73512  83.550595)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix( 5.0238808 0.26329044 0.52658087 -10.047762  268.18646  84.107712)"/>
+  <circle r="0.5"
+          stroke="none" fill="#000000" fill-rule="nonzero"
+          transform="matrix( 4.2191632 -2.7399566 -5.4799132 -8.4383263  269.68808  83.705353)"/>
+</svg>
