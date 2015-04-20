@@ -19,8 +19,10 @@ import sys, random
 import cv2
 import cv2.cv as cv
 import numpy as np
-import time, math
+import time, math, os
 from colorweave import palette as cwp
+from os.path import basename
+
 
 # replace rules
 # text detection
@@ -32,52 +34,6 @@ from colorweave import palette as cwp
 # 	activeness: colors/shape
 # change out rules 
 # cutting up the CFA file
-
-
-cfa0 = "startshape BIG rule BIG "
-circularity = 0.5
-cfa1 = "{VINE{r 45}} rule BIG "
-circularityInverse = 0.5
-cfa2 = "{SQ{}} rule BIG{ZAG{}} rule VINE { SEG{} VINE {x 9.1 r -15 y -1.2}}  rule VINE "
-corner = 0.5
-cfa3 = "{ SEG{} VINE {x 9.1 r 90 y -1.2}}  rule VINE "
-# circularity repeat
-cfa4 = "{VINE{f 0}} rule VINE "
-# size of image?
-cfa5 = "{} rule SEG{ LINE {} } rule SEG "
-# floralness
-cfa6 = "{ FLOWER { x 4.5 y -0.5 size 2.5 r 20 } } rule LINE "
-#linearness
-cfa7 = "{ 30 * { x 0.3 r -0.5} CIRCLE {}} rule LINE "
-# linear2
-cfa8 = "{ 20 * { x 0.3 r -0.5} CIRCLE { } }  rule LINE "
-length = .05
-cfa9 = "{ SQUARE {s 4 1 x 2}} rule FLOWER "
-# circularityInverse
-cfa10 = "{ SQUARE{s 1}} rule FLOWER "
-cfa11 = "{ 5 * {r 72} TRIANGLE {s 1 x 1.2 hue 0 sat 1 b 0 a 1} FLOWER {r 20..30 size 0.5}} rule FLOWER {5 * {r 72} TRIANGLE {s 1 x 1.2 hue 0 sat 1 b 0 a -0.5} FLOWER {r 20..30 size 0.5}} rule FLOWER {5 * {r 72} TRIANGLE {s 1 x 1.2 hue 0 sat 1 b 0 a -0.25}FLOWER {r 20..30 size 0.5}} rule SQ "
-cfa12 = "{4*{r 90 x 5} SQUIG{x 1..5 y 1..5}} rule SQ "
-cfa13 = "{4*{y 10 r 90 x 10} SQUIG{x 1..5 y 1..5}} rule SQUIG "
-cfa14 = "{5*{x 5..10 y 0..4 s 1.5} DOTS{}} rule SQUIG "
-cfa15 = "{3*{x 5..10 y 0..4 s .9} DOTS{}} rule SQUIG "
-linecut = 0.5
-cfa15 = "{SQUARE{s 50 1}} rule DOTS "
-# circularity Inverse
-cfa16 = "{CIRCLE{s 2..4}} rule DOTS "
-# circularity
-cfa17 = "{SQUARE{s 2..5}} rule DOTS "
-# floralness
-cfa18 = "{FLOWER{}} rule ZAG "
-#
-cfa19 = "{3*{x 2} ZIG{r 45}} rule ZIG "
-
-cfa20 = "{2*{r 135..150 x 2..4 y 2..4} DOTS{s .5}}"
-
-
-
-
-
-
 
 if len(sys.argv) ==2:
 	fileName = sys.argv[1]
@@ -140,16 +96,22 @@ maxLineGap = 10
 lines = cv2.HoughLinesP(edges,1,np.pi/180,100,minLineLength,maxLineGap)
 
 # angles added up
-tot = 0 
-for x1,y1,x2,y2 in lines[0]:
-    dy = y2-y1
-    dx = x2-x1
-    mytan = math.atan2(dx, dy)
-    tot = tot+mytan
+if not lines is None and len(lines) > 0:
+	tot = 0 
+	for x1,y1,x2,y2 in lines[0]:
+   	 dy = y2-y1
+   	 dx = x2-x1
+   	 mytan = math.atan2(dx, dy)
+   	 tot = tot+mytan
+	# angle for images
+	angle = math.floor(math.degrees(tot/len(lines[0])))
+	nlines = len(lines[0])
+else:
+	angle = 0
+	nlines = 1
 
-# angle for images
-angle = math.floor(math.degrees(tot/len(lines[0])))
-nlines = len(lines[0])
+
+
 
 
 
@@ -157,7 +119,7 @@ nlines = len(lines[0])
 start = "startshape BIG "
 rule1 = "rule BIG {VINE{r 90}}"
 # if > 30 lines, multiple lines at av angle
-if len(lines[0])>30:
+if nlines>30:
 	rule1 = "rule BIG {"+ str(math.floor(nlines/4)) +"*{r "+ str(angle) +"} VINE{r 90}} rule BIG .05 {VINE{r 90}}"
 
 rule2 = "rule VINE { SEG{} VINE {x 9.1 y -1.2 r "+str((90-angle)*1.5)+"}} rule VINE { SEG{} VINE {x 9.1 y -1.2 r "+str((90-angle)*1.5)+"}}"
@@ -181,7 +143,7 @@ rule6 = "rule SEG { FLOWER { x 5 y 1 s .5} } rule SEG { FLOWER { x 5 y 1 s .5 hu
 if ncir < 10 & nlines > 40:
 	rule6 = " "
 
-rule7= "rule LINE { "+str(math.floor(nlines/2))+" * { x 0.3 r -.5} CIRCLE {}}"
+rule7= "rule LINE { "+str(math.ceil(nlines/2)+1)+" * { x 0.3 r -.5} CIRCLE {}}"
 	# repeats = # lines???
 	# replace w/ rule7a when rule2a is used 
 if ncir>60:
@@ -205,18 +167,19 @@ if 0<dec<90:
 	# rule 8a + rule 8b if color2 > 150
 
 
-colors = " //"+str(colors)
+cols = str(colors).replace("[", "").replace(",", "").replace("]","").replace("'","").replace("#","")
 
 
+# now you can call it directly with basename
+base = os.path.splitext(os.path.basename(fileName))[0]
 
 
+with open('out/render/'+base+'-colors.txt', 'w') as colorout:
+	colorout.write(cols)
 
+final = start+rule1+rule2+rule3+rule4+rule5+rule6+rule7+rule8
 
-
-
-final = start+rule1+rule2+rule3+rule4+rule5+rule6+rule7+rule8+colors
-
-with open('out/cfa/'+fileName+'.cfdg', 'w') as outfile: 
+with open('out/cfa/'+base+'.cfdg', 'w') as outfile: 
 	outfile.write(final)
 
 
