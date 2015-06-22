@@ -3,6 +3,7 @@
 * [OpenCV](http://opencv.org/)
 * [NumPy](http://numpy.org)
 * [ColorWeave](https://pypi.python.org/pypi/colorweave/0.1)
+
 ### About
 This is project is an experiment aimed at understanding a computers ability to imitate creativity and inspiration through turning a piece of art into an embroidery pattern. The art was analyzed in python, interpreted into context-free art over 2 iterations and then all interpretations were compared to the original image using similar analysis.  A final interpretation was chosen, and the final embroidery image was processed in Embroidery software and embroidered on muslin fabric.
 
